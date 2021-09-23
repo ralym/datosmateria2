@@ -1,0 +1,10 @@
+D:\Informatica\9no Semestre\INF-319\Ejemplos\c#\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+D:\Informatica\9no Semestre\INF-319\Ejemplos\c#\Ejemplo1\bin\Debug\Ejemplo1.exe
+D:\Informatica\9no Semestre\INF-319\Ejemplos\c#\Ejemplo1\bin\Debug\Ejemplo1.pdb
+D:\Informatica\9no Semestre\INF-319\Ejemplos\c#\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+D:\Informatica\9no Semestre\INF-319\Ejemplos\c#\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+D:\Informatica\9no Semestre\INF-319\Ejemplos\c#\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+D:\Informatica\9no Semestre\INF-319\Ejemplos\c#\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+D:\Informatica\9no Semestre\INF-319\Ejemplos\c#\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+D:\Informatica\9no Semestre\INF-319\Ejemplos\c#\Ejemplo1\obj\Debug\Ejemplo1.exe
+D:\Informatica\9no Semestre\INF-319\Ejemplos\c#\Ejemplo1\obj\Debug\Ejemplo1.pdb
